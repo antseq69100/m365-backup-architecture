@@ -14,6 +14,12 @@ External Backup Repository (Proxmox Datastore)
         ▼
 Restore Explorers (Exchange / SharePoint / OneDrive / Teams)
 ```
+### Design Principles
+
+- Dedicated backup server VM
+- Externalized repository storage
+- Organization-wide workload protection
+- Rebuild-friendly architecture design
 
 ## Infrastructure Components
 
