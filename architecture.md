@@ -1,5 +1,16 @@
 # Architecture Overview – Microsoft 365 Backup Lab
 
+Microsoft 365 Tenant
+        │
+        ▼
+Veeam Backup Server (Windows Server VM)
+        │
+        ▼
+External Repository (Proxmox datastore)
+        │
+        ▼
+Restore Explorers (Exchange / SharePoint / OneDrive / Teams)
+
 ## Infrastructure Components
 
 The backup environment is deployed on a virtualized infrastructure using:
