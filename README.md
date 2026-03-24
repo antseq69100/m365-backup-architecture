@@ -1,5 +1,9 @@
 # Microsoft 365 Backup Architecture Lab – Veeam Backup for Microsoft 365
 
+## Related Projects
+
+- m365-endpoint (Intune / Autopilot / Update Rings / Win32 apps deployment)
+
 ## Overview
 
 This repository documents the deployment of a Microsoft 365 tenant backup solution using **Veeam Backup for Microsoft 365** in a virtualized lab environment based on **Proxmox VE**.
