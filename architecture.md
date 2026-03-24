@@ -1,15 +1,19 @@
 # Architecture Overview – Microsoft 365 Backup Lab
 
+## Logical Backup Flow
+
+```
 Microsoft 365 Tenant
         │
         ▼
 Veeam Backup Server (Windows Server VM)
         │
         ▼
-External Repository (Proxmox datastore)
+External Backup Repository (Proxmox Datastore)
         │
         ▼
 Restore Explorers (Exchange / SharePoint / OneDrive / Teams)
+```
 
 ## Infrastructure Components
 
