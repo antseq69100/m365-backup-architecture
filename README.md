@@ -2,7 +2,7 @@
 
 ## Related Projects
 
-- m365-endpoint (Intune / Autopilot / Update Rings / Win32 apps deployment)
+- m365-endpoint (Intune / Autopilot / Update Rings / Win32 apps deployment) (https://github.com/antseq69100/m365-endpoint)
 
 ## Overview
 
